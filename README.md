@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**sohan1102-dev/sohan1102-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+![Header](https://i.ibb.co/5cXcQ3V/github-header.png)
 
-Here are some ideas to get you started:
+# 👋 Hi there, I'm Md. Sohan!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **AI & Python Developer** | Open Source Enthusiast  
+🚀 Currently working on **AI-powered Bengali Content Generator**  
+🌱 Learning **Django**, **Machine Learning** & **Data Visualization**  
+🎯 Goal: Build impactful AI tools for Bangla content creators  
+
+---
+
+## 🛠 Skills
+- **Languages:** Python, JavaScript, HTML/CSS  
+- **Frameworks:** Django, Flask, Bootstrap  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, VS Code, Figma  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan-dev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan-dev&layout=compact&theme=radical)
+
+---
+
+## 🚀 Featured Projects
+- [🌐 Bengali AI Content Generator](https://github.com/sohan-dev/bengali-ai-generator) – AI that writes in Bangla  
+- [🐍 Python Snake Game](https://github.com/sohan-dev/python-snake-game) – Fun arcade game in Python  
+- [📊 BIWTA Exam Helper](https://github.com/sohan-dev/biwta-exam-helper) – Study resources for recruitment exam  
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/sohan-dev)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat)](mailto:sohan.coder@gmail.com)  
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&style=flat)](https://facebook.com/sohan.dev)  
+
+
+
