@@ -12,10 +12,10 @@
 ---
 
 ## 🛠 Skills
-- **Languages:** Python, JavaScript, HTML/CSS  
+- **Languages:** Python, HTML/CSS  
 - **Frameworks:** Django, Flask, Bootstrap  
 - **Databases:** MySQL, SQLite  
-- **Tools:** Git, VS Code, Figma  
+- **Tools:** Git, VS Code,   
 
 ---
 
